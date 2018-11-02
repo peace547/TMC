@@ -1,0 +1,50 @@
+html, body, main, #root {
+  height: 100%;
+  width: 100%;
+}
+.center {
+  text-align: center;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+
+.littleFont {
+  font-size: 12px;
+}
+.smallFont {
+  font-size: 14px;
+}
+.middleFont {
+  font-size: 16px;
+}
+.largeFont {
+  font-size: 18px;
+}
+.bigFont {
+  font-size: 20px;
+}
+.gray {
+  color: #999;
+}
+.highGray {
+  color: #666;
+}
+.normalColor {
+  color: #333;
+}
+.infoColor {
+  color: #af1a1a;
+}
+.littlePadding {
+  padding: 10px 0;
+}
+.padding {
+  padding: 20px 0;
+}
+.highlight {
+  color: #ffbe00
+}
